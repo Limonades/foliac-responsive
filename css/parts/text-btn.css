@@ -1,0 +1,30 @@
+/*text and button section*/
+.text-btn {
+	min-height: 500px;
+	background-image: url(../../images/men-computer.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.text-btn__info {
+	margin-top: 70px;
+	width: 50%;
+	float: right;
+	clear: left;
+	color: white;
+	padding-right: 13.6%;
+}
+
+.text-btn__subtitle {
+	margin-top: 0;
+	font-size: 22px;
+}
+
+.text-btn__text {
+	height: 147px;
+	overflow: hidden;
+	font-size: 16px;
+	line-height: 25px;
+}
